@@ -1,0 +1,17 @@
+config/opencore/ipad
+comand.all/main 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NTY</title>
+</head>
+<body>
+  <h1>Welcome to apple boot for iphone ipad apple tv</h1>
+  <p>command d is installer!</p>
+</body>
+</html>
+windows11-ipad/
+├── index.html
+├── style.css
+├── script.js
+└── assets/
