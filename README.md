@@ -1,6 +1,6 @@
 # -legacy-boot-core-patcher-for-iOS-
 the legacy boot core patcher for iOS is os to install is android 
-and mainly for andorid 
+and mainly for andorid to be installed
 Mac OS or windows 
 if you have Mac OS 12 or higher it can work 
 windows it supports windows vesta or higher 
